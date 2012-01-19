@@ -8,7 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Goodbye Chino!</h1>
-        <p>Corrige este conflicto</p>
+        <h1>Hola a todos!!!</h1>
     </body>
 </html>
