@@ -8,6 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello Chino!!</h1>
+        <h1>Y ponle un trycatch al sistema de inscripciones</h1>
     </body>
 </html>
