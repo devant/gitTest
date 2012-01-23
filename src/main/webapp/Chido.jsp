@@ -9,9 +9,6 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<<<<<<< HEAD
-        <title>JSP Page asds </title>
-=======
         <title>JSP Page 8 8 8 8 </title>
     </head>
     <body>
