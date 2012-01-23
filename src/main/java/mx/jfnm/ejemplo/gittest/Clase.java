@@ -11,7 +11,7 @@ package mx.jfnm.ejemplo.gittest;
 public class Clase {
     
     public void ifDude() {
-        if(1 < 3)
+        if(1 < 3 || true)
             System.out.println("chido");
         System.out.println("no chido");
         System.out.println("una letra");
