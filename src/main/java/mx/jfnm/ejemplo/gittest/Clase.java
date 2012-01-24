@@ -14,7 +14,7 @@ public class Clase {
         if(4 < 0 || true || false && true) 
         {
             if(true)
-                System.out.println("vato");            
+                System.out.println("vato23");            
         }
         else
             System.out.println("no chido");
