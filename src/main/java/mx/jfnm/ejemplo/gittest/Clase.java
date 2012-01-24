@@ -21,6 +21,8 @@ public class Clase {
         for (int i = 0; i < 10; i++) {
             System.out.println("chidop");            
         }
+        System.out.println("cosa nostra");
+        System.out.println("pacatelas");
     }
     
 }
