@@ -17,11 +17,8 @@ public class Clase {
         }
         else
             System.out.println("no chido");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("i = " + i);
-            
-        }
-        
+        for (Object object : new String[]{"lol","mmm"}) {
+            System.out.println("this = " + object);
         System.out.println("pacatelas");
     }
     
