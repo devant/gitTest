@@ -19,7 +19,26 @@ public class Clase {
             System.out.println("no chido");
         for (Object object : new String[]{"lol","mmm"}) {
             System.out.println("this = " + object);
+            object=this.toString();
         System.out.println("pacatelas");
+        }
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
+    
+    
     
 }
