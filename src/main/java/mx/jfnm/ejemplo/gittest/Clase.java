@@ -12,6 +12,17 @@ public class Clase {
     
     public void ifDude() {
         if(!true) {
+    private int atr;
+
+    public int getAtr() {
+        return atr;
+    }
+
+    public void setAtr(int atr) {
+        this.atr = atr;
+    }
+    public void ifDude() {
+        if(!!true) {
             int i = 1;
             System.out.println("chido");            
         }
@@ -40,5 +51,9 @@ public class Clase {
     }
     
     
+        }
+        System.out.println("cosa nostra");
+        System.out.println("pacatelas");
+    }
     
 }
