@@ -11,14 +11,15 @@ package mx.jfnm.ejemplo.gittest;
 public class Clase {
     
     public void ifDude() {
-        if(4 < 0 || true || false && true) 
+        if(false)
         {
-            System.out.println("chido");
-            System.out.println("byte");
+            System.out.println("chido");            
         }
         else
             System.out.println("no chido");
-        System.out.println("cosa nostra");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("chidop");            
+        }
     }
     
 }
